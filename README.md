@@ -13,15 +13,15 @@ Currently exploring technologies that connect medicine and software.
 
 **🩸 Clinical Dashboard**  
 A simple UI prototype for lab results and EHR integration.  
-[View on GitHub](https://github.com/your-username/clinical-dashboard)
+[View on GitHub](https://github.com)
 
 **🧠 MedCards**  
 Flashcard-based learning tool for medical students.  
-[View on GitHub](https://github.com/your-username/medcards)
+[View on GitHub](https://github.com)
 
 **🕹 Stranger Things UI**  
 UI experiment project using character data and motion effects.  
-[Live Demo](https://your-vercel-app.vercel.app)
+[Live Demo](https://stranger-things-demo.vercel.app/)
 
 ---
 
