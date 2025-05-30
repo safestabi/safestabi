@@ -1,15 +1,14 @@
-<h1 align="center">🩺 Hi, I'm Safe — Medical Student | Web Developer</h1>
+<h1 align="center">🩺 Hi, I'm Safe — Medical Student </h1>
 
 <p align="center">
   ⚕️ Bridging <strong>Medicine</strong> & <strong>Technology</strong><br>
   🌐 Passionate in <code>Next.js</code>, <code>TailwindCSS</code>, and <code>Data Viz</code><br>
-  📍 Based in Thailand | 🇹🇭
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🎓 5th-year Medical Student  
+- 🎓 1th-year Medical Student  
 - 💻 Building full-stack web apps during on-call breaks  
 - 🔬 Interested in medical informatics, digital pathology, and EHRs
 
